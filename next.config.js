@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const isProd = process.env.NODE_ENV === 'production'
-const repoName = 'org-setup' // 🔴 MUST MATCH YOUR REPO NAME
+const repoName = 'org-setup' // 
+MUST MATCH YOUR REPO NAME
 
 const nextConfig = {
   output: 'export',
