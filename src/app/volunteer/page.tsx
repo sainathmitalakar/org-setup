@@ -174,7 +174,7 @@ export default function VolunteerPage() {
                   you're interested in contributing to.
                 </p>
                 <a
-                  href="https://github.com/Bhagat-Singh-Private-Limited-India"
+                  href="https://github.com/sainathmitalakar/org-setup"
                   className="text-primary-600 hover:text-primary-700 font-medium mt-2 inline-block"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -192,7 +192,7 @@ export default function VolunteerPage() {
                   to understand our community standards.
                 </p>
                 <a
-                  href="https://github.com/Bhagat-Singh-Private-Limited-India/website/blob/main/CONTRIBUTING.md"
+                  href="https://github.com/sainathmitalakar/org-setup/blob/main/CONTRIBUTING.md"
                   className="text-primary-600 hover:text-primary-700 font-medium mt-2 inline-block"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -210,7 +210,7 @@ export default function VolunteerPage() {
                   a new feature to start your contribution journey.
                 </p>
                 <a
-                  href="https://github.com/Bhagat-Singh-Private-Limited-India/website/issues"
+                  href="https://github.com/sainathmitalakar/org-setup/issues"
                   className="text-primary-600 hover:text-primary-700 font-medium mt-2 inline-block"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -236,7 +236,7 @@ export default function VolunteerPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://github.com/Bhagat-Singh-Private-Limited-India/website/discussions"
+                href="https://github.com/sainathmitalakar/org-setup/discussions"
                 className="btn-primary text-lg px-8 py-4 inline-block"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -244,7 +244,7 @@ export default function VolunteerPage() {
                 Join Discussions
               </a>
               <a
-                href="https://github.com/Bhagat-Singh-Private-Limited-India/website/issues/new"
+                href="https://github.com/sainathmitalakar/org-setup/issues/new"
                 className="btn-secondary text-lg px-8 py-4 inline-block"
                 target="_blank"
                 rel="noopener noreferrer"

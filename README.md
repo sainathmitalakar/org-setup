@@ -1,12 +1,12 @@
 # Bhagat Singh Private Limited India - Official Website
 
-[![Deploy Next.js to GitHub Pages](https://github.com/Bhagat-Singh-Private-Limited-India/website/actions/workflows/deploy.yml/badge.svg)](https://github.com/Bhagat-Singh-Private-Limited-India/website/actions/workflows/deploy.yml)
+[![Deploy Next.js to GitHub Pages](https://github.com/sainathmitalakar/org-setup/actions/workflows/deploy.yml/badge.svg)](https://github.com/sainathmitalakar/org-setup/actions/workflows/deploy.yml)
 
 Welcome to the official website repository for **Bhagat Singh Private Limited India**, a non-profit organization dedicated to promoting technical education and open-source contributions across India.
 
 ## 🌐 Live Website
 
-Visit our website: [https://bhagat-singh-private-limited-india.github.io/website/](https://bhagat-singh-private-limited-india.github.io/website/)
+Visit our website: [https://sainathmitalakar.github.io/org-setup/](https://sainathmitalakar.github.io/org-setup/)
 
 ## 🚀 Mission
 
@@ -68,8 +68,8 @@ This website is built using only GitHub-native services and modern web technolog
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Bhagat-Singh-Private-Limited-India/website.git
-   cd website
+   git clone https://github.com/sainathmitalakar/org-setup.git
+   cd org-setup
    ```
 
 2. **Install dependencies**
@@ -176,9 +176,9 @@ Please read our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduc
 
 ## 🐛 Bug Reports & Feature Requests
 
-- **Bug Reports**: [Create an Issue](https://github.com/Bhagat-Singh-Private-Limited-India/website/issues/new?template=bug_report.md)
-- **Feature Requests**: [Create an Issue](https://github.com/Bhagat-Singh-Private-Limited-India/website/issues/new?template=feature_request.md)
-- **Questions**: [Start a Discussion](https://github.com/Bhagat-Singh-Private-Limited-India/website/discussions)
+- **Bug Reports**: [Create an Issue](https://github.com/sainathmitalakar/org-setup/issues/new?template=bug_report.md)
+- **Feature Requests**: [Create an Issue](https://github.com/sainathmitalakar/org-setup/issues/new?template=feature_request.md)
+- **Questions**: [Start a Discussion](https://github.com/sainathmitalakar/org-setup/discussions)
 
 ## 🔧 Deployment
 
@@ -227,10 +227,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Website**: [https://bhagat-singh-private-limited-india.github.io/website/](https://bhagat-singh-private-limited-india.github.io/website/)
-- **GitHub**: [Organization Profile](https://github.com/Bhagat-Singh-Private-Limited-India)
-- **Issues**: [Report a Problem](https://github.com/Bhagat-Singh-Private-Limited-India/website/issues)
-- **Discussions**: [Join the Conversation](https://github.com/Bhagat-Singh-Private-Limited-India/website/discussions)
+- **Website**: [https://sainathmitalakar.github.io/org-setup/](https://sainathmitalakar.github.io/org-setup/)
+- **GitHub**: [Repository](https://github.com/sainathmitalakar/org-setup)
+- **Issues**: [Report a Problem](https://github.com/sainathmitalakar/org-setup/issues)
+- **Discussions**: [Join the Conversation](https://github.com/sainathmitalakar/org-setup/discussions)
 
 ---
 

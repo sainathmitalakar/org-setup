@@ -12,7 +12,7 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/Bhagat-Singh-Private-Limited-India"
+                href="https://github.com/sainathmitalakar/org-setup"
                 className="text-gray-300 hover:text-white transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -55,7 +55,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="https://github.com/Bhagat-Singh-Private-Limited-India/website/issues"
+                  href="https://github.com/sainathmitalakar/org-setup/issues"
                   className="text-gray-300 hover:text-white transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -65,7 +65,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/Bhagat-Singh-Private-Limited-India/website/blob/main/CONTRIBUTING.md"
+                  href="https://github.com/sainathmitalakar/org-setup/blob/main/CONTRIBUTING.md"
                   className="text-gray-300 hover:text-white transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"

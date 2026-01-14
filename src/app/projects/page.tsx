@@ -58,7 +58,7 @@ export default function ProjectsPage() {
                 </div>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com/Bhagat-Singh-Private-Limited-India/website"
+                    href="https://github.com/sainathmitalakar/org-setup"
                     className="text-primary-600 hover:text-primary-700 font-medium"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -66,7 +66,7 @@ export default function ProjectsPage() {
                     View Code →
                   </a>
                   <a
-                    href="https://bhagat-singh-private-limited-india.github.io/website/"
+                    href="https://sainathmitalakar.github.io/org-setup/"
                     className="text-primary-600 hover:text-primary-700 font-medium"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -105,7 +105,7 @@ export default function ProjectsPage() {
                 </div>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com/Bhagat-Singh-Private-Limited-India"
+                    href="https://github.com/sainathmitalakar/org-setup"
                     className="text-gray-400 cursor-not-allowed"
                   >
                     Coming Soon
@@ -142,7 +142,7 @@ export default function ProjectsPage() {
                 </div>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com/Bhagat-Singh-Private-Limited-India"
+                    href="https://github.com/sainathmitalakar/org-setup"
                     className="text-gray-400 cursor-not-allowed"
                   >
                     Coming Soon
@@ -179,7 +179,7 @@ export default function ProjectsPage() {
                 </div>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com/Bhagat-Singh-Private-Limited-India"
+                    href="https://github.com/sainathmitalakar/org-setup"
                     className="text-gray-400 cursor-not-allowed"
                   >
                     Coming Soon
@@ -252,7 +252,7 @@ export default function ProjectsPage() {
                   Look for issues labeled "good first issue" to get started.
                 </p>
                 <a
-                  href="https://github.com/Bhagat-Singh-Private-Limited-India/website/labels/good%20first%20issue"
+                  href="https://github.com/sainathmitalakar/org-setup/labels/good%20first%20issue"
                   className="text-primary-600 hover:text-primary-700 font-medium"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -266,7 +266,7 @@ export default function ProjectsPage() {
                   Have an idea for a new project? We'd love to hear it!
                 </p>
                 <a
-                  href="https://github.com/Bhagat-Singh-Private-Limited-India/website/discussions"
+                  href="https://github.com/sainathmitalakar/org-setup/discussions"
                   className="text-primary-600 hover:text-primary-700 font-medium"
                   target="_blank"
                   rel="noopener noreferrer"
