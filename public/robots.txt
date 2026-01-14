@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://bhagat-singh-private-limited-india.github.io/website/sitemap.xml
+Sitemap: https://sainathmitalakar.github.io/org-setup/sitemap.xml
 
 # Block specific paths
 Disallow: /api/
