@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://bhagat-singh-private-limited-india.github.io/website/sitemap.xml
+
+# Block specific paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Allow search engines to crawl all content
+Allow: /
+Allow: /blog/
+Allow: /about/
+Allow: /volunteer/
+Allow: /projects/
