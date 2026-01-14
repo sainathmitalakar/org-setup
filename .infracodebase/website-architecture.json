@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "id": "github-repo",
+      "label": "GitHub Repository",
+      "subtitle": "website",
+      "icon": "/icons/onprem/vcs/github.png",
+      "type": "container"
+    },
+    {
+      "id": "source-code",
+      "label": "Source Code",
+      "subtitle": "Next.js + TypeScript",
+      "icon": "/icons/programming/language/typescript.png",
+      "parentNode": "github-repo"
+    },
+    {
+      "id": "content",
+      "label": "MDX Content",
+      "subtitle": "Blog Posts",
+      "icon": "/icons/programming/language/javascript.png",
+      "parentNode": "github-repo"
+    },
+    {
+      "id": "docs",
+      "label": "Documentation",
+      "subtitle": "README, Contributing",
+      "icon": "/icons/k8s/controlplane/api.png",
+      "parentNode": "github-repo"
+    },
+    {
+      "id": "github-actions",
+      "label": "GitHub Actions",
+      "subtitle": "CI/CD Pipeline",
+      "icon": "/icons/onprem/ci/github-actions.png"
+    },
+    {
+      "id": "build-process",
+      "label": "Build Process",
+      "subtitle": "Next.js Static Export",
+      "icon": "/icons/azure/deployment/deployment.png"
+    },
+    {
+      "id": "github-pages",
+      "label": "GitHub Pages",
+      "subtitle": "Static Hosting",
+      "icon": "/icons/firebase/develop/hosting.png"
+    },
+    {
+      "id": "website",
+      "label": "Live Website",
+      "subtitle": "Public Access",
+      "icon": "/icons/azure/application/web-app.png"
+    },
+    {
+      "id": "users",
+      "label": "Users & Contributors",
+      "subtitle": "Community",
+      "icon": "/icons/programming/framework/react.png"
+    },
+    {
+      "id": "features",
+      "label": "Website Features",
+      "type": "container"
+    },
+    {
+      "id": "blog-system",
+      "label": "Blog System",
+      "subtitle": "MDX + Dynamic Routes",
+      "icon": "/icons/programming/language/javascript.png",
+      "parentNode": "features"
+    },
+    {
+      "id": "seo",
+      "label": "SEO Features",
+      "subtitle": "Sitemap, RSS, Robots",
+      "icon": "/icons/k8s/controlplane/api.png",
+      "parentNode": "features"
+    },
+    {
+      "id": "pages",
+      "label": "Static Pages",
+      "subtitle": "Home, About, Volunteer",
+      "icon": "/icons/azure/application/web-app.png",
+      "parentNode": "features"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "source": "github-repo",
+      "target": "github-actions",
+      "label": "triggers on push"
+    },
+    {
+      "id": "e2",
+      "source": "github-actions",
+      "target": "build-process",
+      "label": "runs build"
+    },
+    {
+      "id": "e3",
+      "source": "build-process",
+      "target": "github-pages",
+      "label": "deploys static files"
+    },
+    {
+      "id": "e4",
+      "source": "github-pages",
+      "target": "website",
+      "label": "hosts"
+    },
+    {
+      "id": "e5",
+      "source": "users",
+      "target": "website",
+      "label": "visits"
+    },
+    {
+      "id": "e6",
+      "source": "users",
+      "target": "github-repo",
+      "label": "contributes"
+    },
+    {
+      "id": "e7",
+      "source": "features",
+      "target": "website",
+      "label": "powers"
+    },
+    {
+      "id": "e8",
+      "source": "source-code",
+      "target": "build-process",
+      "label": "compiled by"
+    },
+    {
+      "id": "e9",
+      "source": "content",
+      "target": "blog-system",
+      "label": "feeds into"
+    }
+  ],
+  "name": "Bhagat Singh Private Limited India - Website Architecture"
+}
